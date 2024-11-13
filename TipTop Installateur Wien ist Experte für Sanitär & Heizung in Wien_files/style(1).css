@@ -1,0 +1,180 @@
+@font-face {
+  font-family: 'Fortis-Icon';
+  src:  url('fonts/Fortis-Icon.eot?faiz0l');
+  src:  url('fonts/Fortis-Icon.eot?faiz0l#iefix') format('embedded-opentype'),
+    url('fonts/Fortis-Icon.ttf?faiz0l') format('truetype'),
+    url('fonts/Fortis-Icon.woff?faiz0l') format('woff'),
+    url('fonts/Fortis-Icon.svg?faiz0l#Fortis-Icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="fortis-icon-"], [class*=" fortis-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Fortis-Icon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  display: inline-block;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fortis-icon-default:before {
+  content: "\e932";
+}
+.fortis-icon-gear:before {
+  content: "\e900";
+}
+.fortis-icon-factory:before {
+  content: "\e901";
+}
+.fortis-icon-water-factory:before {
+  content: "\e902";
+}
+.fortis-icon-electric-factory:before {
+  content: "\e903";
+}
+.fortis-icon-power-plant:before {
+  content: "\e904";
+}
+.fortis-icon-foreman:before {
+  content: "\e905";
+}
+.fortis-icon-factory-machine:before {
+  content: "\e906";
+}
+.fortis-icon-mechanical-arm:before {
+  content: "\e907";
+}
+.fortis-icon-box:before {
+  content: "\e908";
+}
+.fortis-icon-worker:before {
+  content: "\e909";
+}
+.fortis-icon-trolley:before {
+  content: "\e90a";
+}
+.fortis-icon-worker3:before {
+  content: "\e90b";
+}
+.fortis-icon-box2:before {
+  content: "\e90c";
+}
+.fortis-icon-mechanical-arm3:before {
+  content: "\e90d";
+}
+.fortis-icon-presentation:before {
+  content: "\e90e";
+}
+.fortis-icon-warehouse:before {
+  content: "\e90f";
+}
+.fortis-icon-container:before {
+  content: "\e910";
+}
+.fortis-icon-truck:before {
+  content: "\e911";
+}
+.fortis-icon-worker2:before {
+  content: "\e912";
+}
+.fortis-icon-factory-machine1:before {
+  content: "\e913";
+}
+.fortis-icon-Work-time:before {
+  content: "\e914";
+}
+.fortis-icon-foreman1:before {
+  content: "\e915";
+}
+.fortis-icon-work-list:before {
+  content: "\e916";
+}
+.fortis-icon-factory-machine2:before {
+  content: "\e917";
+}
+.fortis-icon-scale:before {
+  content: "\e918";
+}
+.fortis-icon-report:before {
+  content: "\e919";
+}
+.fortis-icon-forklift:before {
+  content: "\e91a";
+}
+.fortis-icon-switch:before {
+  content: "\e91b";
+}
+.fortis-icon-tank:before {
+  content: "\e91c";
+}
+.fortis-icon-jacket:before {
+  content: "\e91d";
+}
+.fortis-icon-car:before {
+  content: "\e91e";
+}
+.fortis-icon-gear2:before {
+  content: "\e91f";
+}
+.fortis-icon-wrench:before {
+  content: "\e920";
+}
+.fortis-icon-controller1:before {
+  content: "\e921";
+}
+.fortis-icon-helmet:before {
+  content: "\e922";
+}
+.fortis-icon-factory-machine4:before {
+  content: "\e923";
+}
+.fortis-icon-gear3:before {
+  content: "\e924";
+}
+.fortis-icon-tank1:before {
+  content: "\e925";
+}
+.fortis-icon-monitor:before {
+  content: "\e926";
+}
+.fortis-icon-research:before {
+  content: "\e927";
+}
+.fortis-icon-hook:before {
+  content: "\e928";
+}
+.fortis-icon-gear1:before {
+  content: "\e929";
+}
+.fortis-icon-controller:before {
+  content: "\e92a";
+}
+.fortis-icon-mechanical-arm1:before {
+  content: "\e92b";
+}
+.fortis-icon-mechanical-arm2:before {
+  content: "\e92c";
+}
+.fortis-icon-drill:before {
+  content: "\e92d";
+}
+.fortis-icon-box1:before {
+  content: "\e92e";
+}
+.fortis-icon-bulb:before {
+  content: "\e92f";
+}
+.fortis-icon-factory-machine3:before {
+  content: "\e930";
+}
+.fortis-icon-worker1:before {
+  content: "\e931";
+}
